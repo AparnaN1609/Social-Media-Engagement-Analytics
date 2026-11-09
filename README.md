@@ -63,33 +63,23 @@ Compared user engagement across age groups, account verification status and devi
 
 Performed correlation analysis.
 
+
 5. 📊 Data Visualization
 
 Created visualizations using Matplotlib, Seaborn and Plotly, including:
 
-Scatter plots
-
-Line charts
-
-Bar charts
-
-Pie charts
-
-Histograms
-
-Box plots
-
-Count plots
-
-Violin plots
-
-Pair plots
-
-Correlation heatmaps
-
-Swarm plots
-
-Interactive charts
+- Scatter plots
+- Line charts
+- Bar charts
+- Pie charts
+- Histograms
+- Box plots
+- Count plots
+- Violin plots
+- Pair plots
+- Correlation heatmaps
+- Swarm plots
+- Interactive charts
 
 
 🔍 Key Findings and Interpretations
@@ -116,12 +106,14 @@ Correlation Analysis: Likes and engagement score showed a strong positive correl
 The analysis highlights different patterns in social media engagement based on post type, content category, country, age group, account verification status, device type and sentiment. Video posts and music-related content performed better in terms of average engagement score. Australia recorded the highest average engagement rate, while mobile users showed the highest watch time.
 This project demonstrates the application of Python libraries for data cleaning, exploratory data analysis, statistical analysis and visualization to generate meaningful insights from social media data.
 
-Project Files
+
+🗂 Project Files
 
 - Jupyter Notebook – Complete analysis and visualizations.
 - One-Page PDF – Project summary, findings and interpretations.
 - Dataset – Original social media engagement dataset (if sharing is permitted) & cleaned data set
-- Instructions 
+- Instructions
+  
 
 Skills Demonstrated
 
@@ -133,7 +125,9 @@ Skills Demonstrated
 - Data Visualization
 - Data Interpretation
 
+
 👤 Author
+
 Aparna N
 Data Analytics Enthusiast
 
